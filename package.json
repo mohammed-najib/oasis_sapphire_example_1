@@ -1,0 +1,12 @@
+{
+  "name": "sapphire_project_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@oasisprotocol/sapphire-paratime": "^1.0.3",
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "dotenv": "^16.0.2",
+    "truffle": "^5.5.29"
+  }
+}
